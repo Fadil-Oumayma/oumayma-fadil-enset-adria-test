@@ -10,4 +10,10 @@ question 2 :
 runnig config service 
 ![3](https://github.com/Fadil-Oumayma/oumayma-fadil-enset-adria-test/assets/94223365/75a248bb-0c3a-404c-a007-3434ba7957b5)
 
+![4](https://github.com/Fadil-Oumayma/oumayma-fadil-enset-adria-test/assets/94223365/80845469-f6f3-464a-84d0-eaff3ffaeb26)
+![5](https://github.com/Fadil-Oumayma/oumayma-fadil-enset-adria-test/assets/94223365/2a21b74e-1256-4d1c-a89a-962bccb4d127)
+question 3 :
+![6](https://github.com/Fadil-Oumayma/oumayma-fadil-enset-adria-test/assets/94223365/92985dc5-93d9-4885-be81-86442eff09b8)
+
+
 
